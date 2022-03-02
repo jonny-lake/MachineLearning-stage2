@@ -6,10 +6,11 @@
     - circle
     - square
     - rectangle
-> - The required `python` packages are:
-    - `PIL`
-    - `numpy`
-    - `sklearn`
-    - `pandas`
-    - `skimage`
-    - `os`
+
+- The required `python` packages are:
+  - `PIL`
+  - `numpy`
+  - `sklearn`
+  - `pandas`
+  - `skimage`
+  - `os`
