@@ -7,6 +7,8 @@
     - square
     - rectangle
 
+> Run `ENGR418_project_group_41_stage_2.ipynb` to see functionality.
+
 - The required `python` packages are:
   - `PIL`
   - `numpy`
